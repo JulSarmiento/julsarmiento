@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **julhsarmiento@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x8s0C9GJSOWGMmwXmS6BhSG4htAFYNm6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mnRf3Vptj-yTVy57aq-4hClgbr-YnR2T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
