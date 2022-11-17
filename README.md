@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julsarmiento" alt="julsarmiento" /></a> </p>
 
-- 🔭 I’m currently working on [Vader Bank](https://github.com/JulSarmiento/vader-bank)
+- 🔭 I’m currently working on [Backend Mazu Store]([https://github.com/JulSarmiento/primera-entrega-proyecto])
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Backend with Node.js**
 
 - 💬 Ask me about **Javascript**
 
