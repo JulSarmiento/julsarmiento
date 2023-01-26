@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julieth Sarmiento</h1>
-<h3 align="center">Jr React Frontend</h3>
+<h3 align="center">Full Stack Node Developer Jr</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julsarmiento&label=Profile%20views&color=0e75b6&style=flat" alt="julsarmiento" /> </p>
 
