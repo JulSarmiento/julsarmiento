@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julsarmiento" alt="julsarmiento" /></a> </p>
 
-- 🔭 I’m currently working on [Odashi's Backend](https://github.com/JulSarmiento/odashis-backend)
+- 🔭 I’m currently working on [NARC-ecommerce]([https://github.com/JulSarmiento/odashis-backend)
 
 - 🌱 I’m currently learning **Node Backend**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Backend with Node.js**
 
 - 📫 How to reach me **julhsarmiento@gmail.com**
 
